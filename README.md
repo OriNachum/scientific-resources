@@ -37,7 +37,7 @@ scientific-resources/
 │   │   ├── Review_531.docx        # Latest review
 │   │   └── README.md              # Usage guide
 ├── DL-papers-reviews-old/         # Legacy review collection
-├── learning-materials/            # Educational resources and tutorials
+├── learning materials/            # Educational resources and tutorials
 ├── presentations/                 # Research presentations and slides
 └── images/                        # Repository assets and graphics
 ```
@@ -96,7 +96,7 @@ scientific-resources/
 - **Individual Reviews**: 208 DOCX files with enhanced ArXiv links  
 - **Daily Reviews**: 323 DOCX files (May 2024 - Oct 2025)
 - **Unified Collection**: Single `split-reviews-docx/` directory ✅
-- **Source Collections**: 14+ documents (PDF + DOCX formats)
+- **Source Collections**: 21 documents (10 PDFs + 11 DOCX files)
 - **Merged Collection**: 447-page comprehensive PDF (legacy)
 - **Total Collection Size**: 300+ MB across formats
 - **Coverage Period**: 2022-2025 cutting-edge research
@@ -113,7 +113,7 @@ scientific-resources/
 4. **Reference Documentation**: Detailed README guides in each directory
 
 ### Using Learning Materials
-1. **Explore** the `learning-materials/` directory
+1. **Explore** the `learning materials/` directory
 2. **Follow** structured learning paths
 3. **Access** tutorials and educational content
 4. **Apply** practical data science materials
