@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/scientific-tree-header.png" alt="Scientific Resources Hub" width="800" height="800">
+<img src="./images/cosmic-neural-header.svg" alt="Scientific Resources Hub" width="100%">
 
 </div>
 
