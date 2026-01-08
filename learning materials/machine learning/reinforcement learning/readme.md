@@ -5,6 +5,62 @@ Comprehensive resources on reinforcement learning theory, algorithms, and applic
 
 ## 📄 Available Materials
 
+### An Introduction to Deep Reinforcement Learning
+
+**File**: `An Introduction to Deep Reinforcement Learning.pdf`
+
+**Overview**: Accessible introduction to deep reinforcement learning, bridging classical RL theory with modern deep learning approaches.
+
+**Key Topics**:
+- Deep Q-Networks (DQN) and variants
+- Policy gradient methods with neural networks
+- Actor-critic architectures
+- Practical implementation considerations
+
+---
+
+### Deep Reinforcement Learning Course Notes
+
+**File**: `Deep reinforcement learning course notes.pdf`
+
+**Overview**: Structured course materials covering deep RL concepts, ideal for systematic learning.
+
+**Key Topics**:
+- Lecture-based progression through deep RL
+- Practical exercises and examples
+- Algorithm implementations
+- Research paper discussions
+
+---
+
+### Deep Reinforcement Learning: A Textbook
+
+**File**: `Deep Reinforcement Learning, a textbook .pdf`
+
+**Overview**: Comprehensive textbook treatment of deep reinforcement learning from foundations to advanced applications.
+
+**Key Topics**:
+- Complete coverage of deep RL methods
+- Theoretical foundations and practical algorithms
+- Case studies and applications
+- Modern research directions
+
+---
+
+### Distributional Reinforcement Learning
+
+**File**: `Distributional Reinforcement Learning_compressed.pdf`
+
+**Overview**: Advanced treatment of distributional approaches to reinforcement learning, focusing on learning value distributions rather than expected values.
+
+**Key Topics**:
+- Distributional Bellman equations
+- Categorical and quantile regression approaches
+- Risk-sensitive reinforcement learning
+- Theoretical foundations of distributional RL
+
+---
+
 ### Mathematical Foundations of Reinforcement Learning
 
 **File**: `Mathematical Foundations of Reinforcement Learning_compressed.pdf`
@@ -35,6 +91,19 @@ Comprehensive resources on reinforcement learning theory, algorithms, and applic
 - Mathematicians interested in RL theory
 - Practitioners seeking deep understanding
 
+---
+
+### Q* Learning
+
+**File**: `Q star learning.pdf`
+
+**Overview**: Exploration of Q* learning approaches and their applications in modern AI systems.
+
+**Key Topics**:
+- Q* algorithm variants
+- Applications in language models and reasoning
+- Advanced search and planning methods
+
 ## 🎯 Applications
 
 ### Research Areas
@@ -52,7 +121,7 @@ Comprehensive resources on reinforcement learning theory, algorithms, and applic
 
 ## 📊 Collection Statistics
 
-- **Total Resources**: 6 files (5 PDF documents + 1 reference links file)
+- **Total Resources**: 7 files (6 PDF documents + 1 reference links file)
 - **Format**: Mix of compressed and standard PDFs
 - **Focus**: Theory, algorithms, and applications
 - **Coverage**: Foundational to advanced RL topics

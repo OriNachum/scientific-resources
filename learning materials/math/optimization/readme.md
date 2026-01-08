@@ -61,6 +61,12 @@ Mathematical optimization resources covering algorithms, formulations, and appli
 
 **Overview**: Comprehensive coverage of optimization problem formulations, solution algorithms, and real-world applications.
 
+### Fundamentals of Optimization Theory With Applications to Machine Learning
+
+**File**: `Fundamentals of Optimization Theory With Applications to Machine Learning.pdf`
+
+**Overview**: Modern optimization theory with focus on machine learning applications, covering both theoretical foundations and practical algorithms.
+
 ## 🎯 Applications
 
 ### Machine Learning
@@ -83,7 +89,7 @@ Mathematical optimization resources covering algorithms, formulations, and appli
 
 ## 📊 Collection Statistics
 
-- **Total Resources**: 4 PDF documents
+- **Total Resources**: 5 PDF documents
 - **Format**: Mix of compressed and standard PDFs
 - **Focus**: Algorithms, theory, and applications
 - **Coverage**: Foundational to advanced optimization topics

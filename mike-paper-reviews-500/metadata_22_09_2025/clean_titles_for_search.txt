@@ -518,3 +518,29 @@
 518. Optimizers Qualitatively Alter Solutions And We Should Care
 519. Skip a Layer or Loop it Test-Time Depth Adaptation for Large Language Models
 520. Beyond the Exploration-Exploitation Trade-Off A Hidden State Approach for LLM Reasoning in RLVR
+521. Evolution Strategies at Scale LLM FINE-TUNING BEYOND REINFORCEMENT LEARNING
+522. COMPLLM COMPRESSION FOR LONG CONTEXT Q&A
+523. Less is More Recursive Reasoning with Tiny Networks
+524. Inadequacies of Large Language Model Benchmarks in the Era of Generative Artificial Intelligence
+525. LIMITATIONS OF NORMALIZATION IN ATTENTION MECHANISM
+526. Between Underthinking and Overthinking An Empirical Study of Reasoning Length and Correctness in LLMs
+527. The Markovian Thinker
+528. Shaping Explanations Semantic Reward Modeling with Encoder-Only Transformers for GRPO
+529. DeepSeek-OCR Contexts Optical Compression
+530. Imbalanced Gradients in RL Post-Training of Multi-Task LLMs
+531. EMERGENCE FROM LEARNING DYNAMICS OF GROKKING
+532. Language Models are Injective and Hence Invertible
+533. ON SURJECTIVITY OF NEURAL NETWORKS CAN YOU ELICIT ANY BEHAVIOR FROM YOUR MODEL?
+534. Agent Learning via Early Experience
+535. Statistical Runtime Verification for LLMs via Robustness Estimation
+536. FROM MEMORIZATION TO REASONING IN THE SPECTRUM OF LOSS CURVATURE
+537. Forget BIT It is All about TOKEN Towards Semantic Information Theory for LLMs
+538. Nested Learning Is Deep Learning Just a Stack of Optimizers?
+539. Extracting alignment data in open models
+540. Physics-informed neural networks A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations
+541. LiteAttention A Temporal Sparse Attention for Diffusion Transformers
+542. ATTENTION AND COMPRESSION IS ALL YOU NEED FOR CONTROLLABLY EFFICIENT
+543. Tiny Model Big Logic Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeThinker-1.5B
+544. LeJEPA Provable and Scalable Self-Supervised Learning Without the Heuristics
+545. Whisper Leak a side-channel attack on Large Language Models
+546. How to Correctly Report LLM-as-a-Judge Evaluations
