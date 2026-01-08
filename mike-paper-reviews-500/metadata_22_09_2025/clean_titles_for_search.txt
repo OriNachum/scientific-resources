@@ -544,3 +544,18 @@
 544. LeJEPA Provable and Scalable Self-Supervised Learning Without the Heuristics
 545. Whisper Leak a side-channel attack on Large Language Models
 546. How to Correctly Report LLM-as-a-Judge Evaluations
+547. Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free
+548. Solving a Million-Step LLM Task with Zero Errors
+549. HeavyWater and SimplexWater: Watermarking Low-Entropy Text Distributions
+550. ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration
+551. MOETUNER: Optimized Mixture of Expert Serving with Balanced Expert Placement and Token Routing
+552. HybridEP: Scaling Expert Parallelism to Cross-Datacenter Scenario via Hybrid Expert/Data Transmission
+553. Let's (not) just put things in Context: Test-Time Training for Long-Context LLMs
+554. DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning
+555. Learning Dynamics of LLM Finetuning
+556. Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)
+557. SEAL: Self-Adapting Language Models
+558. Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning
+559. RECURSIVE LANGUAGE MODELS
+560. Paraformer-v2: An improved non-autoregressive transformer for noise-robust speech recognition
+561. Small Language Models are the Future of Agentic AI
