@@ -104,6 +104,20 @@ Comprehensive resources on reinforcement learning theory, algorithms, and applic
 - Applications in language models and reasoning
 - Advanced search and planning methods
 
+---
+
+### Reinforcement Learning: An Overview
+
+**File**: `Reinforcement Learning- An Overview_compressed.pdf`
+
+**Overview**: Comprehensive overview of reinforcement learning covering key concepts, algorithms, and recent developments.
+
+**Key Topics**:
+- RL fundamentals and terminology
+- Value-based and policy-based methods
+- Model-based reinforcement learning
+- Recent advances and applications
+
 ## 🎯 Applications
 
 ### Research Areas
@@ -121,7 +135,7 @@ Comprehensive resources on reinforcement learning theory, algorithms, and applic
 
 ## 📊 Collection Statistics
 
-- **Total Resources**: 7 files (6 PDF documents + 1 reference links file)
+- **Total Resources**: 8 files (7 PDF documents + 1 reference links file)
 - **Format**: Mix of compressed and standard PDFs
 - **Focus**: Theory, algorithms, and applications
 - **Coverage**: Foundational to advanced RL topics

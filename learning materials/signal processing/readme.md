@@ -19,9 +19,24 @@ Digital signal processing resources with Python implementation.
 - Signal generation and manipulation
 - Audio and image processing
 
+---
+
+### Signal Processing for Communication
+
+**File**: `signal processing for communication.pdf`
+
+**Overview**: Signal processing techniques specifically for communication systems.
+
+**Key Topics**:
+- Communication system fundamentals
+- Modulation and demodulation
+- Channel modeling
+- Signal detection and estimation
+- Digital communication techniques
+
 ## 📊 Collection Statistics
 
-- **Total Resources**: 1 PDF document
+- **Total Resources**: 2 PDF documents
 - **Focus**: DSP with Python
 - **Level**: Intermediate
 

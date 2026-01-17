@@ -23,6 +23,7 @@ Comprehensive collection of linear algebra resources from introductory to advanc
 
 ### Lecture Notes
 - `MATH 233 - Linear Algebra Lecture Notes.pdf` - Course lecture materials
+- `Lecture notes for Math Terense Tao.pdf` - Terence Tao's mathematical notes
 
 ### Reference & Advanced
 - `The Matrix Cookbook.pdf` - Essential matrix operations reference
@@ -31,7 +32,7 @@ Comprehensive collection of linear algebra resources from introductory to advanc
 
 ## 📊 Collection Statistics
 
-- **Total Resources**: 14 PDF documents
+- **Total Resources**: 15 PDF documents
 - **Focus**: Theory, applications, and reference
 - **Coverage**: Introductory to advanced
 

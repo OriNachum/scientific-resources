@@ -8,6 +8,7 @@ Extensive collection of probability theory, statistical methods, and Bayesian in
 ### Foundational Probability
 - `Introduction to Probability at an advanced level.pdf` - Advanced probability theory
 - `Introduction to Probability.pdf` - Standard introduction
+- `probability-theory-2025_compressed.pdf` - Probability theory (2025 edition)
 - `Grinstead and Snells Introduction to Probability.pdf` - Classic probability text
 - `BASIC PROBABILITY CONCEPTS.pdf` - Basic concepts
 - `Probability Theory- The Logic of Science.pdf` - E.T. Jaynes' classic
@@ -54,7 +55,7 @@ Extensive collection of probability theory, statistical methods, and Bayesian in
 
 ## 📊 Collection Statistics
 
-- **Total Resources**: 33 files (31 PDFs + 1 PNG + 1 links file)
+- **Total Resources**: 34 files (32 PDFs + 1 PNG + 1 links file)
 - **Focus**: Probability, statistics, and Bayesian methods
 - **Coverage**: Introductory to advanced research-level
 

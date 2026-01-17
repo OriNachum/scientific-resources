@@ -8,6 +8,7 @@ Comprehensive resources on deep learning, neural network architectures, and adva
 ### Foundational Deep Learning
 - `Brief Introduction to Neural Networks.pdf` - Neural network fundamentals
 - `Introduction to Neural Networks and Deep Learning.pdf` - Comprehensive DL introduction
+- `Introduction to Deep Learning_compressed.pdf` - Deep learning introduction
 - `Neural Network Design.pdf` - Network architecture design principles
 - `Artificial Neural Networks For Kids.pdf` - Accessible introduction
 - `Dive into Deep Learning.pdf` - Hands-on deep learning guide
@@ -44,7 +45,7 @@ Comprehensive resources on deep learning, neural network architectures, and adva
 
 ## 📊 Collection Statistics
 
-- **Total Resources**: 23 files (22 PDFs + 1 links file)
+- **Total Resources**: 24 files (23 PDFs + 1 links file)
 - **Format**: PDF documents and reference links
 - **Focus**: Deep learning theory and practice
 - **Coverage**: Fundamentals to advanced architectures

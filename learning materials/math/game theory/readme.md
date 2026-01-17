@@ -19,9 +19,22 @@ Resources on game theory, strategic decision making, and equilibrium analysis.
 - Mechanism design
 - Applications in economics and computer science
 
+---
+
+### Game Theory
+
+**File**: `game theory.pdf`
+
+**Overview**: Additional game theory resource covering fundamental concepts and applications.
+
+**Key Topics**:
+- Game theory fundamentals
+- Strategic decision making
+- Equilibrium concepts
+
 ## 📊 Collection Statistics
 
-- **Total Resources**: 1 PDF document
+- **Total Resources**: 2 PDF documents
 - **Focus**: Game theory fundamentals and applications
 - **Level**: Undergraduate to graduate
 

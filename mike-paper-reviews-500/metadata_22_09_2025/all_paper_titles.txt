@@ -564,3 +564,8 @@
 559. RECURSIVE LANGUAGE MODELS
 560. Paraformer-v2: An improved non-autoregressive transformer for noise-robust speech recognition
 561. Small Language Models are the Future of Agentic AI
+562. From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence
+563. WAIT, WAIT, WAIT... WHY DO REASONING MODELS LOOP?
+564. Joint-Embedding vs Reconstruction: Provable Benefits of Latent Space Prediction for Self-Supervised Learning
+565. The Free Transformer
+566. RAFT - Retrieval Augmented Time Series Forecasting

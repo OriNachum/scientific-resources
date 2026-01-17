@@ -10,6 +10,7 @@ Comprehensive collection of machine learning fundamentals, textbooks, and genera
 - `20 Core Data Science Concepts.pdf` - Fundamental DS concepts
 
 ### Foundational Textbooks
+- `Introduction to Machine Learning L. Younes.pdf` - L. Younes' comprehensive ML introduction
 - `A Brief Introduction to Machine Learning for Engineers.pdf` - Engineering-focused ML introduction
 - `A Comprehensive Guide to Machine Learning.pdf` - Complete ML coverage
 - `A Course in Machine Learning.pdf` - Structured course materials
@@ -61,7 +62,7 @@ Comprehensive collection of machine learning fundamentals, textbooks, and genera
 
 ## 📊 Collection Statistics
 
-- **Total Resources**: 40 files (39 PDFs + 1 links file)
+- **Total Resources**: 41 files (40 PDFs + 1 links file)
 - **Format**: PDF documents and reference links
 - **Focus**: Comprehensive ML foundations and practice
 - **Coverage**: Introductory to advanced topics
